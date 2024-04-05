@@ -44,7 +44,7 @@ education:
     - course: B.A. Communication, Culture, & Management
       institution: Zeppelin University, Friedrichshafen | Maastricht University
       year: 2018
-    - course: Minor: B.A. Corporate Management & Economics
+    - course: B.A. Corporate Management & Economics (Minor)
       institution: Zeppelin University, Friedrichshafen
       year: 2018
 
