@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    demo: true
     content:
       title: Skills
       text: ''
@@ -51,6 +52,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    demo: true
     content:
       title: Experience
       # Date format for experience
@@ -87,6 +89,7 @@ sections:
       columns: '2'
   - block: accomplishments
     content:
+      demo: true
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
       subtitle:
@@ -128,6 +131,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    demo: true
     id: posts
     content:
       title: Recent Posts
@@ -156,6 +160,7 @@ sections:
       columns: '2'
   - block: portfolio
     id: projects
+    demo: true
     content:
       title: Projects
       filters:
@@ -182,6 +187,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    demo: true
     content:
       title: Gallery
       subtitle: ''
@@ -190,7 +196,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Featured Publications
       filters:
@@ -210,27 +216,49 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
+  - block: collection
+  content:
+    title: GitHub & Coding
+    filters:
+      folders:
+        - coding
+      exclude_featured: false
+  design:
+    columns: '2'
+    view: citation
   - block: tag_cloud
+    demo: true
     content:
       title: Popular Topics
     design:
       columns: '2'
   - block: contact
     id: contact
+    title: Contact
+    content:
+      email: ben@benthies.de
+      autolink: true
+    deign:
+      columns: '2'
+
+
+  - block: contact
+    demo: true
+    id: contactdemo
     content:
       title: Contact
       subtitle:
