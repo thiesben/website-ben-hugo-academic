@@ -231,11 +231,10 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-  content:
-    title: GitHub & Coding
-  design:
-    columns: '2'
-    view: citation
+    content:
+      title: GitHub & Coding
+    design:
+      columns: '2'
   - block: tag_cloud
     demo: true
     content:
