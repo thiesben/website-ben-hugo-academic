@@ -233,10 +233,6 @@ sections:
   - block: collection
   content:
     title: GitHub & Coding
-    filters:
-      folders:
-        - coding
-      exclude_featured: false
   design:
     columns: '2'
     view: citation
