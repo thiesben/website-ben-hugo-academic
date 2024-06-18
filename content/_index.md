@@ -232,7 +232,7 @@ sections:
       view: compact
   - block: collection
     content:
-      title: GitHub & Coding
+      title: GitHub & &shy;Coding
     design:
       columns: '2'
   - block: tag_cloud
