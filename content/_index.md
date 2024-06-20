@@ -123,9 +123,10 @@ sections:
     content:
       title: GitHub & &shy;Coding
       text:
+        |-
         ## RADICES
         The [Rank Degree Influencer Core Sampler (RaDICeS)](https://github.com/FlxVctr/RADICES) allows to draw an effective sample of a (language-based) Twittersphere as described in [this talk](https://www.youtube.com/watch?v=qsnGTl8d3qU&t=21823s). The underlying method is explained in [this journal article](https://journals.sagepub.com/doi/full/10.1177/2056305120984475). You can also [cite the software itself](https://figshare.com/articles/RADICES/8864777).
-
+        
         ## Affinity Propagation Clustering
         The `affprop` package is an Affinity Propagation Clustering ([Frey and Dueck, 2007](https://science.sciencemag.org/content/315/5814/972)) implementation for Python. This package was part of a project of Cliburn Chan’s STA663 Statistical Computation class at [Duke University](https://www.duke.edu/).
 
