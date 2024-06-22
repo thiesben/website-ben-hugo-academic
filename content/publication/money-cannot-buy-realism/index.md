@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/uploads/money-cannot-buy-realism'
+url_pdf: '/uploads/money-cannot-buy-realism.pdf'
 # url_code: ''
 # url_dataset: 
 # url_poster: ''
@@ -56,7 +56,7 @@ url_pdf: '/uploads/money-cannot-buy-realism'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: Experiment task paradigm (based on Garret and Sharot, 2014)
+  caption: 'Experiment task paradigm (based on Garret and Sharot, 2014)'
   focal_point: ''
   preview_only: false
 
@@ -76,4 +76,5 @@ slides: ""
 ---
 
 **References**
-Garrett, N., & Sharot, T. (2014). How robust is the optimistic update bias for estimating self-risk and population base rates. ***PLoS ONE, 9***(6), e98848. doi: 10.1371/journal.pone.0098848
+
+Garrett, N., & Sharot, T. (2014). How robust is the optimistic update bias for estimating self-risk and population base rates. *PLoS ONE, 9*(6), e98848. doi: 10.1371/journal.pone.0098848

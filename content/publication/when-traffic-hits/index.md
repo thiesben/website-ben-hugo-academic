@@ -42,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/uploads/when-traffic-hits'
+url_pdf: '/uploads/when-traffic-hits.pdf'
 # url_code: ''
 # url_dataset: 
 # url_poster: ''
@@ -54,7 +54,7 @@ url_pdf: '/uploads/when-traffic-hits'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: These maps depict road network graphs detailing (a) betweenness, (b) closeness, and (c) straightness centrality of road network junctions. Values are binned into a colour scale ranging from -3 (dark blue) to +3 (dark red) standard deviations from the mean.
+  caption: 'Road network graphs detailing (a) betweenness, (b) closeness, and (c) straightness centrality of road network junctions.'
   focal_point: ''
   preview_only: false
 
