@@ -1,5 +1,5 @@
 ---
-title: "Money can't buy realism: Incentives do not interfere with the optimistic update bias"
+title: "When Traffic Hits: A geospatial Big Data Analysis of Berlin's Road Network with Applications"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,11 +12,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: "2018-04-30T00:00:00Z"
+date: "2021-09-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-04-30T00:00:00Z"
+publishDate: "2021-09-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,14 +27,12 @@ publication_types: ['thesis']
 # publication: ""
 # publication_short: ""
 
-abstract: "The present study examines whether individuals exhibit elective updating behaviour when estimating (1) their own risk of incurring a negative life event and (2) the risk of that event happening on average to the population. Furthermore, it is 
-investigated whether an incentive can prevent individuals from selective belief updating regarding their estimate of the population risk. For this study, seventy-four university students participated in an experiment in which an altered version of Garret and Sharot’s (2014) task paradigm was applied. It was found that participants exhibited selective updating such that they updated 
-their beliefs more after having received desirable information than after having received undesirable information. This is true for their self-risk estimate and partially true for their estimates of the population risk. The incentive treatment did not interfere with the optimistic update bias. However, findings suggest sex differences in processing negative stimulus material. Also, an alternative analysis method is introduced."
+abstract: "Using comprehensive network and traffic data, we perform an analysis of the Berlin road network. Demonstrating the the usefulness of approaches from computational network science in economics, we use an OSM road network representation to identify potentially critical road segments and build a zero-inflated Poisson regression model to predict accident counts. Acording to our model, a 13% reduction in traffic, as observed in 2020 compared to 2017, leads to an unproportional 16% reduction of accidents, making up for 1.3M e in economic savings. Extrapolations of the data to all traffic accidents reveal highly precise estimates of the number of accidents as well as their associated economic cost."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["belief updating", "optimism", "incentive"]
+tags: ["network analasis", "traffic", "quantitative methods"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -44,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/uploads/money-cannot-buy-realism'
+url_pdf: '/uploads/when-traffic-hits'
 # url_code: ''
 # url_dataset: 
 # url_poster: ''
@@ -56,7 +54,7 @@ url_pdf: '/uploads/money-cannot-buy-realism'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: Experiment task paradigm (based on Garret and Sharot, 2014)
+  caption: These maps depict road network graphs detailing (a) betweenness, (b) closeness, and (c) straightness centrality of road network junctions. Values are binned into a colour scale ranging from -3 (dark blue) to +3 (dark red) standard deviations from the mean.
   focal_point: ''
   preview_only: false
 
@@ -74,6 +72,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-**References**
-Garrett, N., & Sharot, T. (2014). How robust is the optimistic update bias for estimating self-risk and population base rates. ***PLoS ONE, 9***(6), e98848. doi: 10.1371/journal.pone.0098848
