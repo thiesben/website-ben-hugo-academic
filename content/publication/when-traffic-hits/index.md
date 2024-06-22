@@ -27,7 +27,7 @@ publication_types: ['thesis']
 # publication: ""
 # publication_short: ""
 
-abstract: "Using comprehensive network and traffic data, we perform an analysis of the Berlin road network. Demonstrating the the usefulness of approaches from computational network science in economics, we use an OSM road network representation to identify potentially critical road segments and build a zero-inflated Poisson regression model to predict accident counts. Acording to our model, a 13% reduction in traffic, as observed in 2020 compared to 2017, leads to an unproportional 16% reduction of accidents, making up for 1.3M e in economic savings. Extrapolations of the data to all traffic accidents reveal highly precise estimates of the number of accidents as well as their associated economic cost."
+abstract: "Using comprehensive network and traffic data, we perform an analysis of the Berlin road network. Demonstrating the the usefulness of approaches from computational network science in economics, we use an OSM road network representation to identify potentially critical road segments and build a zero-inflated Poisson regression model to predict accident counts. Acording to our model, a 13% reduction in traffic, as observed in 2020 compared to 2017, leads to an unproportional 16% reduction of accidents, making up for 1.3M € in economic savings. Extrapolations of the data to all traffic accidents reveal highly precise estimates of the number of accidents as well as their associated economic cost."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
