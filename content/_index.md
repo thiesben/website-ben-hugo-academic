@@ -85,7 +85,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: publications
+    id: featured
     content:
       title: Featured Publications
       filters:
@@ -97,6 +97,7 @@ sections:
       view: card
   - block: collection
     content:
+      id: publications
       title: Recent Publications
       filters:
         folders:

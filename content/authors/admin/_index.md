@@ -126,7 +126,7 @@ Hi! I am Ben, a current Strategy Consultant at [Strategy&](https://www.strategya
 
 In the past, I leveraged my strong background in various social sciences paired with my formal training as statistician to research [individual](publication/money-cannot-buy-realism) and [collective](publication/when-traffic-hits) human behaviour, and to develop computational research methods (as, e.g., [here](publication/walking-through-twitter)). I like to combine different methods and perspectives from other areas of research to my own work, I like to observe how humans interact, and I like to work with data.
 
-This is what brought me to my current profession outside of academia. As a strategy consultant, I help clients approach their challenges from new angles. I specialize in topics revolving technology strategy (e.g. data governance, ai strategy, IT strategy), with a focus on the public sector. My hope is that with my projects I can make a positive contribution to a better, more digital, citizen-centric public administrastion.
+This is what brought me to my current profession outside of academia. As a strategy consultant, I help clients approach their challenges from new angles. I specialize in topics revolving technology strategy (e.g. Data Governance, AI strategy, IT strategy), with a focus on the public sector. My hope is that with my projects I can make a positive contribution to a better, more digital, citizen-centric public administrastion.
 
 I am always happy to collaborate on scientific research - or on discussions about the digitisation of the (mostly German) public sector - just [hit me up](mailto:home@benthies.de)!
 
